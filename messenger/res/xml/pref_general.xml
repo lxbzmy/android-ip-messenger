@@ -1,0 +1,34 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <cn.devit.android.preference.NoneEmptyEditTextPreference
+        android:capitalize="words"
+        android:inputType="textCapWords"
+        android:key="display_name"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_display_name" />
+
+    <EditTextPreference
+        android:key="workgroup_name"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_workgroup_name" />
+
+    <cn.devit.android.preference.NoneEmptyEditTextPreference
+        android:key="host_name"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_host_name" />
+
+    <cn.devit.android.preference.NoneEmptyEditTextPreference
+        android:key="charset"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_charset" />
+
+
+</PreferenceScreen>

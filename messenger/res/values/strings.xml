@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">飞鸽传书</string>
+    <string name="title_section1">好友列表</string>
+    <string name="title_section2">历史消息</string>
+    <string name="title_section3">调试</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="hint_send_message">选择用户然后发送消息</string>
+    <string name="desc_send">发送</string>
+    <string name="desc_attachement">添加附件</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_refresh_user">刷新用户</string>
+    <string name="title_activity_message_detail">MessageDetailActivity</string>
+    <string name="title_activity_debug_log">DebugLogActivity</string>
+    <string name="title_clear">清空</string>
+
+</resources>
